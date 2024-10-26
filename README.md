@@ -21,6 +21,7 @@ This project is used to analyze the Indian Premiere League (IPL) data using Apac
 - `Data Ingestion and Cleaning` : Extracted raw data and refined it by handling missing values, duplicates, and inconsistencies to ensure data quality.
 - `Data Processing` : Transformed and aggregated data to prepare it for deeper analysis and insights.
 - `Visualization` : Created visual representations to highlight key insights and trends in the dataset.
+- `Exploring PySpark Fundamentals` : Built foundational skills in PySpark with SQL for handling big data, enabling efficient data manipulation and processing at scale.
 
 
 ## Insights 
@@ -32,6 +33,5 @@ This project is used to analyze the Indian Premiere League (IPL) data using Apac
 
 ## Conclusion
 
-This project serves as a practical introduction to big data analytics, demonstrating Spark’s capabilities for scalable, real-world data processing and analysis
-and understanding Spark using Python.
+This project serves as a practical introduction to big data analytics, demonstrating Spark’s capabilities for scalable, real-world data processing and understanding Spark using Python in Databricks.
 
